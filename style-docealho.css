@@ -1,0 +1,295 @@
+.sobre-nos {
+    position: absolute;
+    width: 1350px;
+    height: 70px;
+    left: 530px;
+    top: 1168px;
+    border-radius: 7px;
+    background: #D6CAA3;
+   
+    border-radius: 7px;
+    /*parte do titulo*/
+    padding-top: 10px ;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #905E14;
+    
+}
+
+.sobretexto {
+    position: absolute;
+    width: 1176px;
+    height: 200px;
+    left: 620px;
+    top: 1250px;
+    font-family: Poppins;
+    padding-top: 38px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 70px;
+    text-align: center;
+    letter-spacing: 0.16em;
+    color: #333;
+}
+
+.sobreimagem {
+    position: absolute;
+    width: 450px;
+    height: 350px;
+    left: 40px;
+    top: 1165px;
+    padding-left: 5px;
+}
+
+.alhopq {
+    position: absolute;
+    width: 1840px;
+    height: 70px;
+    left: 40px;
+    top: 1560px;
+    background: #D6CAA3;
+    padding-top: 10px ;
+    border-radius: 7px;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 58px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #905E14;
+
+}
+
+.videoalho {
+    position: absolute;
+    left: 607px;
+    top: 1680px;
+    
+}
+ 
+.check {
+    position: absolute;
+    width:25px;
+    height:25px;
+    top: 1705px;
+    left: 170px;
+    
+}
+
+.check2{
+    position: absolute;
+    width:25px;
+    height:25px;
+    top: 1805px;
+    left: 125px;
+}
+
+.check3{
+    position: absolute;
+    width:25px;
+    height:25px;
+    top: 1955px;
+    left: 170px;
+}
+
+.check4{
+    position: absolute;
+    width:25px;
+    height:25px;
+    top: 2055px;
+    left: 120px;
+    
+} 
+
+.check5{
+    position: absolute;
+    width:25px;
+    height:25px;
+    top: 1705px;
+    left: 1485px;
+    
+   
+}
+
+.check6{
+    position: absolute;
+    width:25px;
+    height:25px;
+    top: 1805px;
+    left: 1470px;
+    
+}
+
+.check7{
+    position: absolute;
+    width:25px;
+    height:25px;
+    top: 1925px;
+    left: 1445px;
+   
+}
+
+.check8 {
+    position: absolute;
+    width:25px;
+    height:25px;
+    left: 1490px;
+    top: 2055px;
+    
+}
+
+.antibio {
+    position: absolute;
+    width: 309px;
+    height: 45px;
+    left: 144px;
+    top: 1700px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 45px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    
+    color: #333;
+
+
+}
+
+.regular {
+    position: absolute;
+    width: 343px;
+    height: 89px;
+    left: 144px;
+    top: 1800px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 45px;
+    text-align: center;
+    letter-spacing: 0.05em;
+        
+    color: #333;
+  
+
+}
+
+.vitc {
+    position: absolute;
+    width: 325px;
+    height: 42px;
+    left: 144px;
+    top: 1950px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 45px;
+    text-align: center;
+    letter-spacing: 0.05em;
+
+    color: #333;
+}
+
+.circulacao {
+    position: absolute;
+    width: 426px;
+    height: 85px;
+    left: 110px;
+    top: 2050px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 45px;
+    text-align: center;
+    letter-spacing: 0.05em;
+
+    color: #333;
+
+}
+
+.colesterol {
+    position: absolute;
+    width: 420px;
+    height: 48px;
+    left: 1408px;
+    top: 1700px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 45px;
+    text-align: center;
+    letter-spacing: 0.05em;
+
+    color: #333;
+
+}
+
+.anti {
+    position: absolute;
+    width: 393px;
+    height: 35px;
+    left: 1422px;
+    top: 1800px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 45px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #333;
+
+}
+
+.sistema {
+    position: absolute;
+    width: 445px;
+    height: 50px;
+    left: 1396px;
+    top: 1920px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 45px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #333;
+    
+}
+
+.energia {
+    position: absolute;
+    width: 400px;
+    height: 35px;
+    left: 1422px;
+    top: 2050px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 45px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    
+    color: #333;
+    
+}
+
+
+

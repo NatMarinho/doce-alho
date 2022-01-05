@@ -1,0 +1,230 @@
+.comida {
+    position: absolute;
+    width: 1840px;
+    height: 70px;
+    left: 40px;
+    top: 4300px;
+    background: #D6CAA3;
+    /*parte do texto*/
+    padding-top: 10px;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 58px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #905E14;
+
+}
+
+.receita-1 {
+    position: absolute;
+    width: 1480px;
+    height: 40px;
+    left: 400px;
+    top: 4420px;
+    background: rgba(206, 183, 104, 0.25);
+    /*parte do texto*/ 
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    
+    color: #333;
+
+}
+
+.ingredientes1 {
+    position: absolute;
+    width: 1480px;
+    height: 247px;
+    left: 400px;
+    top: 4470px;
+    background: rgba(206, 183, 104, 0.25);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.05em;
+
+    color: #333;
+
+}
+
+.leia-mais1 {
+    position: absolute;
+    width: 184px;
+    height: 56px;
+    left: 1647px;
+    top: 4570px;
+    background: rgba(57, 106, 84, 0.75);
+    border-radius: 6px;
+    padding-top: 10px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #F9F9F9;
+    border: 1px solid #F9F9F9;
+    box-sizing: border-box;
+
+}
+
+.receita-1-image {
+    position: absolute;
+    width: 355px;
+    height: 296px;
+    left: 60px;
+    top: 4420px;
+
+}
+
+.receita-2 {
+    position: absolute;
+    width: 1480px;
+    height: 40px;
+    left: 400px;
+    top: 4750px;
+    background: rgba(206, 183, 104, 0.25);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: 0.05em;
+
+    color: #333;
+}
+
+.ingredientes2 {
+    position: absolute;
+    width: 1480px;
+    height: 247px;
+    left: 400px;
+    top: 4800px;
+
+    background: rgba(206, 183, 104, 0.25);
+   
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.05em;
+    
+    color: #333;
+    
+}
+
+.leia-mais2 {
+    position: absolute;
+    width: 184px;
+    height: 56px;
+    left: 1647px;
+    top: 4880px;
+    background: rgba(57, 106, 84, 0.75);
+    border-radius: 6px;
+    padding-top: 10px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #F9F9F9;
+    border: 1px solid #F9F9F9;
+    box-sizing: border-box;
+
+
+}
+
+.receita-2-image {
+    position: absolute;
+    width: 355px;
+    height: 300px;
+    left: 60px;
+    top: 4750px;
+}
+
+.receita-3 {
+    position: absolute;
+    width: 1480px;
+    height: 40px;
+    left: 400px;
+    top: 5080px;
+    background: rgba(206, 183, 104, 0.25);
+
+   
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: 0.05em;
+
+    color: #333;
+
+}
+
+.ingredientes3 {
+    position: absolute;
+    width: 1480px;
+    height: 247px;
+    left: 400px;
+    top: 5130px;
+    background: rgba(206, 183, 104, 0.25);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.05em;
+
+    color: #333;
+
+}
+
+.leia-mais3 {
+    position: absolute;
+    width: 184px;
+    height: 56px;
+    left: 1647px;
+    top: 5255px;
+    background: rgba(57, 106, 84, 0.75);
+    border-radius: 6px;
+    padding-top: 10px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #F9F9F9;
+    border: 1px solid #F9F9F9;
+    box-sizing: border-box;
+}
+
+.receita-3-image {
+    position: absolute;
+    width: 310px;
+    height: 298px;
+    left: 60px;
+    top: 5080px;
+    
+}

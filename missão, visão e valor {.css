@@ -1,0 +1,116 @@
+.mvv {
+    /*parte de fundo*/
+    position: absolute;
+    width: 1845px;
+    height: 70px;
+    left: 40px;
+    top: 680px;
+    background: #D6CAA3;
+    border-radius: 7px;
+    text-align: center;
+    /*parte do texto*/
+    padding-top: 10px;
+    font-family: 'Barlow' ;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 58px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 0.05em;
+
+    color: #905E14;
+}
+
+.icone-missao {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 285px;
+    top: 810px;
+}
+
+.texto-missao {
+    position: absolute;
+    width: 585px;
+    height: 328px;
+    left: 40px;
+    top: 790px;
+    background: rgba(206, 183, 104, 0.2);
+    border-radius: 10px;
+    border: 0px solid #CEB768;
+    box-sizing: border-box;
+    border-radius: 10px;
+    /* parte do texto*/
+    padding: 138px 41px 38px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.05em;
+}
+
+.icone-valor {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 920px;
+    top: 810px;
+}
+
+.texto-valor {
+    position: absolute;
+    width: 585px;
+    height: 328px;
+    left: 670px;
+    top: 790px;
+    background: rgba(206, 183, 104, 0.2);
+    border-radius: 10px;
+    border: 0px solid #CEB768;
+    box-sizing: border-box;
+    border-radius: 10px;
+    /* parte do texto*/
+    padding: 138px 41px 38px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.05em;
+}
+
+.icone-visao {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 1540px;
+    top: 810px;
+
+}
+
+.texto-visao {
+    position: absolute;
+    width: 585px;
+    height: 328px;
+    left: 1300px;
+    top: 790px;
+    background: rgba(206, 183, 104, 0.2);
+    border-radius: 10px;
+    border: 0px solid #CEB768;
+    box-sizing: border-box;
+    border-radius: 10px;
+    /*parte do texto*/
+    padding: 138px 41px 38px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #000000;
+    
+}

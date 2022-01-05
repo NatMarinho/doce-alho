@@ -1,0 +1,279 @@
+.sessao-produtos {
+    position: absolute;
+    width: 1840px;
+    height: 70px;
+    left: 40px;
+    top: 2150px;
+    background: #D6CAA3;
+    border-radius: 7px;
+    padding-top: 10px;
+    /*Parte do texto*/
+    position: absolute;
+    text-transform: uppercase;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 58px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #905E14;
+}
+
+.texto-produtos {
+    position: absolute;
+    width: 921px;
+    height: 113px;
+    left: 500px;
+    top: 2250px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 0.075em;
+
+    color: #333;
+
+}
+
+.geleia {
+    position: absolute;
+    width: 300px;
+    height: 420px;
+    left: 166px;
+    top: 2425px;
+    background: rgba(214, 202, 163, 0.2);
+    
+}    
+
+.imagem-geleia {
+    position: absolute;
+    width: 350px;
+    height: 300px;
+    left: -20px;
+    top: -30px;
+    
+}
+
+
+.geleia-texto {
+    position: absolute;
+    width: 160.29px;
+    height: 132.17px;
+    left: 80px;
+    top: 250px;
+    
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    
+    color: #905E14;
+    
+}
+
+.pasta {
+    position: absolute;
+    width: 300px;
+    height: 420px;
+    left: 584px;
+    top: 2425px;
+    background: rgba(214, 202, 163, 0.2);
+}
+
+.imagem-pasta {
+    position: absolute;
+    width: 350px;
+    height: 300px;
+    left: -20px;
+    top: -30px;
+}
+
+.pasta-texto {
+    position: absolute;
+    width: 161.56px;
+    height: 135.85px;
+    left: 70px;
+    top: 250px;
+
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 0.05em;
+
+    color: #905E14;
+
+}   
+    
+  
+.descascado {
+    position: absolute;
+    width: 300px;
+    height: 420px;
+    left: 992px;
+    top: 2425px;
+    background: rgba(214, 202, 163, 0.2);
+    
+}
+
+.imagem-descascado {
+    position: absolute;
+    width: 350px;
+    height: 300px;
+    left: -20px;
+    top: -30px;
+    
+}
+
+.descascado-texto {
+    position: absolute;
+    width: 180.84px;
+    height: 132.17px;
+    left: 70px;
+    top: 250px;
+    
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    
+    color: #905E14;
+    
+
+}
+
+
+.inteiro {
+    position: absolute;
+    width: 300px;
+    height: 420px;
+    left: 1404px;
+    top: 2425px;
+    background: rgba(214, 202, 163, 0.2);  
+}
+
+.imagem-inteiro {
+    position: absolute;
+    width: 350px;
+    height: 300px;
+    left: -19px;
+    top: 5px;
+}
+
+.inteiro-texto {
+    position: absolute;
+    width: 332px;
+    height: 137px;
+    left: -5px;
+    top: 300px;
+    
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    
+    color: #905E14;
+
+}
+
+
+.sorvete {
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    left: 167px;
+    top: 2900px;
+    background: rgba(214, 202, 163, 0.2);
+    
+}
+
+.imagem-sorvete {
+    position: absolute;
+    width: 350px;
+    height: 300px;
+    left: -20px;
+    top: 15px;
+}
+
+.sorvete-texto {
+    position: absolute;
+    width: 255.94px;
+    height: 138.16px;
+    left: 20px;
+    top: 350px;
+    
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    
+    color: #905E14;
+
+
+}
+
+.insta {
+    position: absolute;
+    width: 1840px;
+    height: 70px;
+    left: 40px;
+    top: 3450px;
+    border-radius: 7px;
+    background: #D6CAA3;
+    /*parte do texto*/  
+    padding-top: 10px;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 58px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    
+    color: #905E14;
+    
+}
+
+.instagram-texto {
+    position: absolute;
+    width: 832px;
+    height: 30px;
+    left: 506px;
+    top: 3530px;
+    font-family: Poppins;
+    padding-top: 25px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #333;
+}
+
+.insta-imagem {
+    position: absolute;
+    width: 1000px;
+    height: 600px;
+    left: 400px;
+    top: 3600px;
+    padding-top: 50px;
+}
